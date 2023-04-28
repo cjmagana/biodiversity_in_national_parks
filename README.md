@@ -1,4 +1,4 @@
-## National Parks Wildlife Data Analysis
+## Biodiversity in National Parks
 
 This project is aimed at analyzing and exploring the wildlife data of different national parks in the United States. The project contains data on the observations of different species of plants and animals in various national parks across the country. The data is analyzed using Python and various data analysis libraries such as NumPy, Pandas, and Matplotlib.
 
