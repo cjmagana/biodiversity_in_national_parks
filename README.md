@@ -7,7 +7,7 @@ This project is aimed at analyzing and exploring the wildlife data of different 
 The data used in this project is obtained from two different sources:
 
 1)    Observations data: This data contains information on the observations of different species of plants and animals in various national parks. It includes the scientific name of the species, the name of the park, and the number of observations.
-2)     Species data: This data contains information on different species of plants and animals found in various national parks. It includes the scientific name of the species, common names, conservation status, and category (Amphibian, Bird, Fish, Mammal, Nonvascular Plant, Reptile, or Vascular Plant).
+2)    Species data: This data contains information on different species of plants and animals found in various national parks. It includes the scientific name of the species, common names, conservation status, and category (Amphibian, Bird, Fish, Mammal, Nonvascular Plant, Reptile, or Vascular Plant).
 
 ### Files
 
